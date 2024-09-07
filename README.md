@@ -5,6 +5,6 @@ I’m diving into data visualization and statistics while learning Python and SQ
 
 - 🔍 **What I'm Learning:** Python, SQL, Data Analysis & Visualization, Statistics
 - 📫 **How to Reach Me:** [hansbsb0128@gmail.com](mailto:hansbsb0128@gmail.com)
-- 💬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sally-hann) and [Instagram](https://www.instagram.com/your-instagram-username).
+- 💬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sally-hann) and [Instagram](https://www.instagram.com/ss__byeol).
 
 I’m excited to connect with professionals and explore data analysis and business analysis opportunities. Let’s collaborate and grow together!
